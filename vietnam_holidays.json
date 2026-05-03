@@ -1,11 +1,11 @@
 {
   "description": "Danh sách ngày nghỉ Lễ hưởng lương (L) tại Việt Nam",
-  "note": "Tết Nguyên Đán tính 4 ngày: 30 Tết, Mùng 1, 2, 3 Âm lịch; Giỗ tổ Hùng Vương tính 1 ngày 10/3 Âm lịch",
+  "note": "Tết Nguyên Đán tính 4 ngày: 30 Tết, Mùng 1 Tết, 2, 3 Âm lịch; Giỗ tổ Hùng Vương tính 1 ngày 10/3 Âm lịch",
   "holidays": {
     "2026": [
       {"date": "2026-01-01", "name": "Tết Dương lịch"},
-      {"date": "2026-02-16", "name": "30 Tết"}, {"date": "2026-02-17", "name": "Mùng 1"},
-      {"date": "2026-02-18", "name": "Mùng 2"}, {"date": "2026-02-19", "name": "Mùng 3"},
+      {"date": "2026-02-16", "name": "30 Tết"}, {"date": "2026-02-17", "name": "Mùng 1 Tết"},
+      {"date": "2026-02-18", "name": "Mùng 2 Tết"}, {"date": "2026-02-19", "name": "Mùng 3 Tết"},
       {"date": "2026-04-26", "name": "Giỗ tổ Hùng Vương"},
       {"date": "2026-04-30", "name": "Giải phóng miền Nam"},
       {"date": "2026-05-01", "name": "Quốc tế Lao động"},
@@ -13,8 +13,8 @@
     ],
     "2027": [
       {"date": "2027-01-01", "name": "Tết Dương lịch"},
-      {"date": "2027-02-05", "name": "30 Tết"}, {"date": "2027-02-06", "name": "Mùng 1"},
-      {"date": "2027-02-07", "name": "Mùng 2"}, {"date": "2027-02-08", "name": "Mùng 3"},
+      {"date": "2027-02-05", "name": "30 Tết"}, {"date": "2027-02-06", "name": "Mùng 1 Tết"},
+      {"date": "2027-02-07", "name": "Mùng 2 Tết"}, {"date": "2027-02-08", "name": "Mùng 3 Tết"},
       {"date": "2027-04-15", "name": "Giỗ tổ Hùng Vương"},
       {"date": "2027-04-30", "name": "Giải phóng miền Nam"},
       {"date": "2027-05-01", "name": "Quốc tế Lao động"},
@@ -22,8 +22,8 @@
     ],
     "2028": [
       {"date": "2028-01-01", "name": "Tết Dương lịch"},
-      {"date": "2028-01-25", "name": "30 Tết"}, {"date": "2028-01-26", "name": "Mùng 1"},
-      {"date": "2028-01-27", "name": "Mùng 2"}, {"date": "2028-01-28", "name": "Mùng 3"},
+      {"date": "2028-01-25", "name": "30 Tết"}, {"date": "2028-01-26", "name": "Mùng 1 Tết"},
+      {"date": "2028-01-27", "name": "Mùng 2 Tết"}, {"date": "2028-01-28", "name": "Mùng 3 Tết"},
       {"date": "2028-04-04", "name": "Giỗ tổ Hùng Vương"},
       {"date": "2028-04-30", "name": "Giải phóng miền Nam"},
       {"date": "2028-05-01", "name": "Quốc tế Lao động"},
@@ -31,8 +31,8 @@
     ],
     "2029": [
       {"date": "2029-01-01", "name": "Tết Dương lịch"},
-      {"date": "2029-02-12", "name": "30 Tết"}, {"date": "2029-02-13", "name": "Mùng 1"},
-      {"date": "2029-02-14", "name": "Mùng 2"}, {"date": "2029-02-15", "name": "Mùng 3"},
+      {"date": "2029-02-12", "name": "30 Tết"}, {"date": "2029-02-13", "name": "Mùng 1 Tết"},
+      {"date": "2029-02-14", "name": "Mùng 2 Tết"}, {"date": "2029-02-15", "name": "Mùng 3 Tết"},
       {"date": "2029-04-22", "name": "Giỗ tổ Hùng Vương"},
       {"date": "2029-04-30", "name": "Giải phóng miền Nam"},
       {"date": "2029-05-01", "name": "Quốc tế Lao động"},
@@ -40,41 +40,41 @@
     ],
     "2030": [
       {"date": "2030-01-01", "name": "Tết Dương lịch"},
-      {"date": "2030-02-02", "name": "30 Tết"}, {"date": "2030-02-03", "name": "Mùng 1"},
-      {"date": "2030-02-04", "name": "Mùng 2"}, {"date": "2030-02-05", "name": "Mùng 3"},
+      {"date": "2030-02-02", "name": "30 Tết"}, {"date": "2030-02-03", "name": "Mùng 1 Tết"},
+      {"date": "2030-02-04", "name": "Mùng 2 Tết"}, {"date": "2030-02-05", "name": "Mùng 3 Tết"},
       {"date": "2030-04-12", "name": "Giỗ tổ Hùng Vương"},
       {"date": "2030-04-30", "name": "Giải phóng miền Nam"},
       {"date": "2030-05-01", "name": "Quốc tế Lao động"},
       {"date": "2030-09-02", "name": "Quốc khánh"}
     ],
     "2031": [
-      {"date": "2031-01-22", "name": "30 Tết"}, {"date": "2031-01-23", "name": "Mùng 1"},
-      {"date": "2031-01-24", "name": "Mùng 2"}, {"date": "2031-01-25", "name": "Mùng 3"},
+      {"date": "2031-01-22", "name": "30 Tết"}, {"date": "2031-01-23", "name": "Mùng 1 Tết"},
+      {"date": "2031-01-24", "name": "Mùng 2 Tết"}, {"date": "2031-01-25", "name": "Mùng 3 Tết"},
       {"date": "2031-04-02", "name": "Giỗ tổ Hùng Vương"}
     ],
     "2032": [
-      {"date": "2032-02-10", "name": "30 Tết"}, {"date": "2032-02-11", "name": "Mùng 1"},
-      {"date": "2032-02-12", "name": "Mùng 2"}, {"date": "2032-02-13", "name": "Mùng 3"},
+      {"date": "2032-02-10", "name": "30 Tết"}, {"date": "2032-02-11", "name": "Mùng 1 Tết"},
+      {"date": "2032-02-12", "name": "Mùng 2 Tết"}, {"date": "2032-02-13", "name": "Mùng 3 Tết"},
       {"date": "2032-04-19", "name": "Giỗ tổ Hùng Vương"}
     ],
     "2033": [
-      {"date": "2033-01-30", "name": "30 Tết"}, {"date": "2033-01-31", "name": "Mùng 1"},
-      {"date": "2033-02-01", "name": "Mùng 2"}, {"date": "2033-02-02", "name": "Mùng 3"},
+      {"date": "2033-01-30", "name": "30 Tết"}, {"date": "2033-01-31", "name": "Mùng 1 Tết"},
+      {"date": "2033-02-01", "name": "Mùng 2 Tết"}, {"date": "2033-02-02", "name": "Mùng 3 Tết"},
       {"date": "2033-04-08", "name": "Giỗ tổ Hùng Vương"}
     ],
     "2034": [
-      {"date": "2034-02-18", "name": "30 Tết"}, {"date": "2034-02-19", "name": "Mùng 1"},
-      {"date": "2034-02-20", "name": "Mùng 2"}, {"date": "2034-02-21", "name": "Mùng 3"},
+      {"date": "2034-02-18", "name": "30 Tết"}, {"date": "2034-02-19", "name": "Mùng 1 Tết"},
+      {"date": "2034-02-20", "name": "Mùng 2 Tết"}, {"date": "2034-02-21", "name": "Mùng 3 Tết"},
       {"date": "2034-04-27", "name": "Giỗ tổ Hùng Vương"}
     ],
     "2035": [
-      {"date": "2035-02-07", "name": "30 Tết"}, {"date": "2035-02-08", "name": "Mùng 1"},
-      {"date": "2035-02-09", "name": "Mùng 2"}, {"date": "2035-02-10", "name": "Mùng 3"},
+      {"date": "2035-02-07", "name": "30 Tết"}, {"date": "2035-02-08", "name": "Mùng 1 Tết"},
+      {"date": "2035-02-09", "name": "Mùng 2 Tết"}, {"date": "2035-02-10", "name": "Mùng 3 Tết"},
       {"date": "2035-04-16", "name": "Giỗ tổ Hùng Vương"}
     ],
     "2036": [
-      {"date": "2036-01-27", "name": "30 Tết"}, {"date": "2036-01-28", "name": "Mùng 1"},
-      {"date": "2036-01-29", "name": "Mùng 2"}, {"date": "2036-01-30", "name": "Mùng 3"},
+      {"date": "2036-01-27", "name": "30 Tết"}, {"date": "2036-01-28", "name": "Mùng 1 Tết"},
+      {"date": "2036-01-29", "name": "Mùng 2 Tết"}, {"date": "2036-01-30", "name": "Mùng 3 Tết"},
       {"date": "2036-04-05", "name": "Giỗ tổ Hùng Vương"}
     ]
   }
